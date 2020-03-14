@@ -15,6 +15,8 @@ $ export AWS_SECRET_ACCESS_KEY=""
 
 Run Terraform:
 
+This project supports the Terraform versions starting to [0.12](https://www.terraform.io/downloads.html). 
+
 ```bash
 $ terraform apply
 ```
